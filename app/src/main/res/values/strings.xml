@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidSelector</string>
+    <string name="selector">Selector界面</string>
+    <string name="shape">Shape界面</string>
+    <string name="layer_list">Layer_list界面</string>
+
+    <string name="switcher">控制灯光明灭</string>
+
+    <string name="shape_round">带有渐变色的圆形</string>
+    <string name="shape_squared">实线九宫格</string>
+
+    <string name="layer_list_android">层叠机器人</string>
+    <string name="layer_list_squared">外围虚线九宫格</string>
+</resources>

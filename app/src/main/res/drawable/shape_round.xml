@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <solid android:color="#00ff00"/>
+
+    <!-- angle 角度进行逆时针转动并且为45的倍数 -->
+    <gradient
+        android:angle="90"
+        android:centerColor="#0000ff"
+        android:endColor="#ffff00"
+        android:startColor="#ff0000"/>
+
+    <padding
+        android:bottom="20dp"
+        android:left="20dp"
+        android:right="20dp"
+        android:top="20dp"/>
+
+    <corners android:radius="50dp"/>
+
+    <stroke
+        android:width="3dp"
+        android:color="#000000"
+        android:dashWidth="8dp"
+        android:dashGap="4dp"/>
+
+    <size />
+
+</shape>

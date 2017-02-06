@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- 根据状态值的不同设置不同的背景颜色，产生出不同的效果 -->
+    <item android:state_enabled="true" android:drawable="@mipmap/lamp_off"/>
+    <item android:state_enabled="false" android:drawable="@mipmap/lamp_on"/>
+
+</selector>
